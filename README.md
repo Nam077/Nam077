@@ -4,7 +4,7 @@
 </br>
 [![Nam077](https://raw.githubusercontent.com/Nam077/Nam077/main/Images/nam077.jpg)](https://www.facebook.com/nam077.me)
   
-### <div align="center">I'm Nam077</div>  
+### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'am+Nguy%E1%BB%85n+V%C4%83n+Nam)](https://git.io/typing-svg)</div>  
   
 
 <br/>  

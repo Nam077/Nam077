@@ -7,7 +7,6 @@
 <img src="https://raw.githubusercontent.com/Nam077/Nam077/main/Images/nam077.jpg" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Nam077</div>  
   
 
@@ -113,7 +112,7 @@
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ofxhptp3rjv35mmaiwky7zxlre&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ofxhptp3rjv35mmaiwky7zxlre&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
@@ -130,6 +129,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

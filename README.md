@@ -8,7 +8,10 @@
   
 
 <br/>  
-## Contact Me  
+## Contact Me
+  
+
+<br/>  
 <div align="center">
   
 | <img width=300/>|<img width=800/>|
@@ -22,6 +25,9 @@
   
 </div>
 ## My Skill Set  
+  
+
+<br/>  
 <table><tr><td valign="top" width="33%">
 
 

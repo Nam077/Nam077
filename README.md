@@ -8,7 +8,19 @@
   
 
 <br/>  
-
+## Contact Me
+<div align="center">
+  
+| <img width=300/>|<img width=800/>|
+| :-----: | :-: |
+| Facebook | [**Phan Đức Hải**](https://www.facebook.com/nam077.me)  |
+| Youtube | [**Nam077**](https://www.youtube.com/nam077) |
+| Working  | [**Font Việt Hoá NVN**](https://www.facebook.com/nvnfont) |
+| University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
+| Contact | **<nam077.me@gmail.com>** |
+| <img width=300/> |  |
+  
+</div>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -92,30 +104,14 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
- 
- 
- ## Contact Me
-<div align="center">
   
-| <img width=300/>|<img width=800/>|
-| :-----: | :-: |
-| Facebook | [**Nguyễn Văn Nam**](https://www.facebook.com/nam077.me)  |
-| Youtube | [**Nam077**](https://www.youtube.com/nam077) |
-| Working  | [**Font Việt Hoá NVN**](https://www.facebook.com/nvnfont) |
-| University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
-| Contact | **<nam077.me@gmail.com>** |
-| <img width=300/> |  |
-  
-</div>
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nam077&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
+![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=nam077&theme=react-dark)
 
 ## Recent Blog Posts  
   

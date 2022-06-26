@@ -113,6 +113,11 @@
 
 ![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=nam077&theme=react-dark)
 
+
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=zukahai&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
+
 ## Recent Blog Posts  
   
 

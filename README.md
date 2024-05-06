@@ -122,7 +122,7 @@
 
 ## Github Stats  
 
-![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=nam077&theme=react-dark)
+
 
 
 <div align = "center">

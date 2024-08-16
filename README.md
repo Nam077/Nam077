@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00F7D3&center=true&lines=Hello+everyone%2C+I+am+Nam077;%3C3................................................................%3C3;%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 </br>
- <div align="center">
+<div align="center">
 [![Nam077](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://www.facebook.com/nam077.me)
- </div>  
+</div>    
    
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'am+Nguy%E1%BB%85n+V%C4%83n+Nam)](https://git.io/typing-svg)</div>  
   
